@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TowerOfHaoi/static/css/main.2bf4b6ee.css",
+    "main.js": "/TowerOfHaoi/static/js/main.8eee407d.js",
+    "static/js/787.ce9ef2d3.chunk.js": "/TowerOfHaoi/static/js/787.ce9ef2d3.chunk.js",
+    "index.html": "/TowerOfHaoi/index.html",
+    "main.2bf4b6ee.css.map": "/TowerOfHaoi/static/css/main.2bf4b6ee.css.map",
+    "main.8eee407d.js.map": "/TowerOfHaoi/static/js/main.8eee407d.js.map",
+    "787.ce9ef2d3.chunk.js.map": "/TowerOfHaoi/static/js/787.ce9ef2d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bf4b6ee.css",
+    "static/js/main.8eee407d.js"
+  ]
+}
