@@ -1,3 +1,8 @@
+ LINK TO REPORT: [Tower Of Hanoi Report.pdf](https://github.com/Nishant4coding/TowerOfHanoi/files/14111569/Tower.Of.Hanoi.Report.pdf)
+
+
+
+
 # A Project Report On 
 # “TOWER OF HANOI GAME”
 
@@ -109,6 +114,7 @@ A counter keeps track of the number of moves made by the user.
 ### •	Responsive Design
 The UI is responsive, providing an optimal user experience on various devices.
 
+![Screenshot 2024-01-31 165116](https://github.com/Nishant4coding/TowerOfHanoi/assets/92370893/9ac89e50-a7fb-41e9-a799-aed388eae41e)
 
 # CONCUSION
 
