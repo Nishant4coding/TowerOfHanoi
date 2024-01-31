@@ -92,8 +92,6 @@ The Tower of Hanoi Game system architecture is designed to provide an interactiv
 •	The game checks for the completion of the Tower of Hanoi puzzle.
 •	A congratulatory message is displayed upon successful completion.
 
+ ![Group 30](https://github.com/Nishant4coding/TowerOfHanoi/assets/92370893/69a1f06d-7faa-4695-82e7-e51e2b05f153)
 
-
-
- 
 
