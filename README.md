@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+# A Project Report On 
+# “TOWER OF HANOI GAME”
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## BACHELOR OF TECHNOLOGY
+ 
 
-In the project directory, you can run:
+### Session 2023-24
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Nishant Srivastava {21SCSE1010736} 
+### Shivansh Prasad {21SCSE1010588} 
+### Tulika Tripathi {21SCSE1010344}
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# INTRODUCTION
+The Tower of Hanoi is a classic mathematical puzzle that involves three pegs and a number of disks of different sizes. The challenge is to move the entire stack from one peg to another, obeying the rules that a larger disk cannot be placed on top of a smaller one. This project involves implementing the Tower of Hanoi game using the React library and JavaScript, providing an interactive and educational experience for users.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Project Objectives
+•	Develop an interactive and visually appealing Tower of Hanoi game.
+•	Utilize React for efficient UI development.
+•	Implement the Tower of Hanoi algorithm using JavaScript.
 
-### `npm run eject`
+### Project Overview
+#### 1.	Tower of Hanoi Problem:
+The Tower of Hanoi problem dates back to the 19th century and is frequently used in computer science education. It serves as an excellent example of recursion and algorithmic thinking.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### 2.	Project Description:
+The project involves creating a web-based Tower of Hanoi game where users can interact with the disks, move them between pegs, and attempt to solve the puzzle. React is employed for its component-based architecture, making the UI development modular and maintainable.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### 3.	Technologies Used:
 
-## Learn More
+#### •	React JS
+React is a JavaScript library for building user interfaces. Its component-based structure allows for the creation of reusable UI elements, providing a smooth and efficient development process.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### •	JavaScript
+JavaScript is used for the algorithmic implementation of the Tower of Hanoi problem. Its versatility and compatibility with web browsers make it an ideal choice for client-side scripting.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# SYSTEM ARCHITECTURE
+The Tower of Hanoi Game system architecture is designed to provide an interactive and seamless user experience while efficiently handling the game logic and user interface. The architecture incorporates React for the front-end development and JavaScript for the algorithmic implementation of the Tower of Hanoi problem.
 
-### `npm run build` fails to minify
+### Front-End (React)
+•	Main component orchestrating the game flow.
+•	Manages the overall state of the game.
+•	Renders the Game Board, Move Counter, and Restart Button components.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Game Board Component
+•	Displays the three pegs and the disks.
+•	Interacts with the Tower Component for handling disk movements.
+
+### Tower Component
+•	Represents each peg and manages disk placement.
+•	Communicates with the Disk Component for rendering disk visuals.
+
+### Algorithm (JavaScript)
+•	Tower of Hanoi Algorithm
+•	Implemented in JavaScript.
+•	Manages the logic for moving disks between pegs.
+•	Ensures adherence to the rules of the Tower of Hanoi problem.
+
+
+#
+
+# GAME FLOW
+### Initialization
+•	The game initializes with a set number of disks on the first peg.
+•	Disks are visually represented on the UI.
+
+### User Interaction
+•	Users interact with the game by clicking on disks and dragging them to the desired peg.
+•	The algorithm checks the validity of the move and updates the game state.
+
+### Win Condition
+•	The game checks for the completion of the Tower of Hanoi puzzle.
+•	A congratulatory message is displayed upon successful completion.
+
+
+
+
+ 
+
