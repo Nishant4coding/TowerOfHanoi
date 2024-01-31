@@ -94,4 +94,18 @@ The Tower of Hanoi Game system architecture is designed to provide an interactiv
 
  ![Group 30](https://github.com/Nishant4coding/TowerOfHanoi/assets/92370893/69a1f06d-7faa-4695-82e7-e51e2b05f153)
 
+# FEATURES
+### •	Drag-and-Drop
+Disks can be moved between pegs through an intuitive drag-and-drop interface.
+
+ 
+![Screenshot 2024-01-31 162333](https://github.com/Nishant4coding/TowerOfHanoi/assets/92370893/3b9e3896-26de-4d52-a850-2749b53cce54)
+
+### •	Move Counter
+A counter keeps track of the number of moves made by the user.
+
+ ![Screenshot 2024-01-31 164836](https://github.com/Nishant4coding/TowerOfHanoi/assets/92370893/4c18f777-ec25-4819-a9ba-cf4edf4f38a2)
+
+### •	Responsive Design
+The UI is responsive, providing an optimal user experience on various devices.
 
